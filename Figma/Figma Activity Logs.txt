@@ -1,0 +1,8 @@
+24/09/2024
+
+27/09/2024
+
+29/09/2024
+Added the scroll thing for the seating picks for each table
+Added more extras menus and recolouring to fit with the colour ramp and consistencies with wix website which is green
+Added the logo of the restaurant for the menu page 
