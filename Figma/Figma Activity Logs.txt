@@ -1,7 +1,7 @@
 24/09/2024
-
+Rough sketch of the pages
 27/09/2024
-
+Design the first page(menu), second page(details of food), third page(booking)
 29/09/2024
 Added the scroll thing for the seating picks for each table
 Added more extras menus and recolouring to fit with the colour ramp and consistencies with wix website which is green
