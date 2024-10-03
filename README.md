@@ -1,4 +1,4 @@
-This readme file contains information about repositories related to group 8's project for Fundamentals of Digital Competence.
+This readme file contains information about repositories and activities related to group 8's project for Fundamentals of Digital Competence.
 
 Members:
 1. Jason Hean Qi Shen
