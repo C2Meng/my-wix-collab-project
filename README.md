@@ -7,7 +7,7 @@ Members:
 4. Muhammad Adiputra bin Norabadi
 5. Chan Chuan Meng
 
-Repository link for Wix Website:
+Activities and repository link of Boujee Cafe Wix website design:
 https://github.com/C2Meng/boujee-cafe (read 'edit-log')
 
 As for the documentation of activities for Figma and the user manual, refer to:
