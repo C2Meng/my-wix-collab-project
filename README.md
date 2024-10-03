@@ -10,7 +10,7 @@ Members:
 Activities and repository link of Boujee Cafe Wix website design:
 https://github.com/C2Meng/boujee-cafe (read 'edit-log')
 
-As for the documentation of activities for Figma and the user manual, refer to (in this repo0sitory:
+As for the documentation of activities for Figma and the user manual, refer to (in this repository:
 1. Figma
 2. Images
 3. activity log
