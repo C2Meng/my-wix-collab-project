@@ -1,11 +1,11 @@
 This readme file contains information about repositories related to group 8's project for Fundamentals of Digital Competence.
 
 Members:
-Jason Hean Qi Shen
-Syed Haqeem bin Syed Isa
-Nicholas Beh Zhi Yang
-Muhammad Adiputra bin Norabadi
-Chan Chuan Meng
+1. Jason Hean Qi Shen
+2. Syed Haqeem bin Syed Isa
+3. Nicholas Beh Zhi Yang
+4. Muhammad Adiputra bin Norabadi
+5. Chan Chuan Meng
 
 Repository link for Wix Website:
 https://github.com/C2Meng/boujee-cafe (read 'edit-log')
