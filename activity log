@@ -1,5 +1,3 @@
-25/9/2024
-
 1/10/2024
 Editing the front cover and the introduction page 
 
@@ -8,3 +6,36 @@ Complete details of the user manual
 
 3/10/24
 Documentation of the Wix website is on a separate repository (see README.md) 
+
+4/10/24
+git & github log:
+
+commit ba3cc07a971291fbf0c65547d62cd6a2ff57b3b1 (HEAD -> main, origin/main, origin/HEAD)
+Author: Jason <jacksonlightning95@gmail.com>
+Date:   Fri Oct 4 13:54:15 2024 +0800
+
+    final adjusments
+
+commit 39f315d5279a1d6bcb8d1da946aed74fe9470396
+Author: C2Meng <139868860+C2Meng@users.noreply.github.com>
+Date:   Thu Oct 3 20:42:00 2024 +0800
+
+    Update README.md
+
+commit 104f06b1eea54c27614ee370f596f7f4da5e8b82
+Author: C2Meng <139868860+C2Meng@users.noreply.github.com>
+Date:   Thu Oct 3 20:40:03 2024 +0800
+
+    Update activity log
+
+commit ac7a80ce7ee45930cb2a01524142193fad97b7dc
+Author: C2Meng <139868860+C2Meng@users.noreply.github.com>
+Date:   Thu Oct 3 20:39:11 2024 +0800
+
+    Update README.md
+
+commit b2fc08109eb30138fbf8fec9d14863932ee76b7e
+Author: C2Meng <139868860+C2Meng@users.noreply.github.com>
+Date:   Thu Oct 3 20:29:47 2024 +0800
+
+    Update README.md
